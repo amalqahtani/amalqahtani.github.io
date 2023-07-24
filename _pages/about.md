@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently a Ph.D. candidate in Computer Science at the George Washington University (GW) under the supervision of Dr. Mona Diab. My main areas of research are Artificial Intelligence (AI) and Natural Language Processing (NLP) in the clinical and psychological domains. My dissertation is on “Models for Detecting Mental Health”. 
+I’m currently a Ph.D. candidate in the Computer Science Department at George Washington University (GW) under the supervision of Dr. Mona Diab. My main areas of research are Artificial Intelligence (AI) and Natural Language Processing (NLP) in the clinical and psychological domains. My dissertation is on “Models for Detecting Mental Health”. 
 
 
 News & updates
