@@ -38,22 +38,24 @@ Work experience
      - Introduction to Programming with Java
   * Duties included: Conducting lab sessions and Grading assignments and projects.
 
-Patent
-======
-Alqahtani, Amal. 2016. WEARABLE ASSISTIVE DEVICE, SYSTEM AND METHODS THEREOF FOR THE VISUALLY IMPAIRED. U.S. Patent number 9311827, filed November 17, 2014, and issued April, 2016.
-
-
 Publications
 ======
-Alqahtani, A., Kay, E. S., Hamidian, S., Compton, M., & Diab, M. (2022). A Quantitative and Qualitative Analysis of Schizophrenia Language. In Proceedings of the 13th International Workshop on Health Text Mining and Information Analysis (LOUHI), pages 173–183, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.
 
-Addawood, A., Alshammari, S., Alqahtani, A., Almansour, A. “Analytical Study of the Non-pharmaceutical Public Health Interventions to Control the Novel Coronavirus Disease 2019 (COVID-19)”. In International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2020). 18-21 October 2020, Washington DC, USA.
+  Patent
+  ------
+Alqahtani, Amal. 2016. WEARABLE ASSISTIVE DEVICE, SYSTEM AND METHODS THEREOF FOR THE VISUALLY IMPAIRED. U.S. Patent number 9311827, filed November 17, 2014, and issued April, 2016.
 
-Alqahtani, A., Kayi, E. & Diab, M. “Understanding Cohesion in Writings and Speech of Schizophrenia Patients”. In 18th IEEE International Conference on Machine Learning and Applications - ICMLA 2019. 16-19 December 2019, Boca Raton FL, USA.
-
-Addawood, A., Alshamrani, A., Alqahtani, A., Diesner, J. & Broniatowski, D. “Women's Driving in Saudi Arabia – Analyzing the Discussion of a Controversial Topic on Twitter”. In International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2018). 10-13 July 2018, Washington DC, USA.
-
-Alqahtani, A.; Jafaar, N. and Al-Fadda, N. “Interactive speech-based games for autistic children with Asperger Syndrome.” Current Trends in Information Technology (CTIT), 2011 International Conference and Workshop on, 26-27 Oct. 2011, Dubai, UAE, pp. 126 - 131.
+  Conferences
+  ------
+  Alqahtani, A., Kay, E. S., Hamidian, S., Compton, M., & Diab, M. (2022). A Quantitative and Qualitative Analysis of Schizophrenia Language. In Proceedings of the 13th International Workshop on Health Text Mining and Information Analysis (LOUHI), pages 173–183, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics.
+  
+  Addawood, A., Alshammari, S., Alqahtani, A., Almansour, A. “Analytical Study of the Non-pharmaceutical Public Health Interventions to Control the Novel Coronavirus Disease 2019 (COVID-19)”. In International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2020). 18-21 October 2020, Washington DC, USA.
+  
+  Alqahtani, A., Kayi, E. & Diab, M. “Understanding Cohesion in Writings and Speech of Schizophrenia Patients”. In 18th IEEE International Conference on Machine Learning and Applications - ICMLA 2019. 16-19 December 2019, Boca Raton FL, USA.
+  
+  Addawood, A., Alshamrani, A., Alqahtani, A., Diesner, J. & Broniatowski, D. “Women's Driving in Saudi Arabia – Analyzing the Discussion of a Controversial Topic on Twitter”. In International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2018). 10-13 July 2018, Washington DC, USA.
+  
+  Alqahtani, A.; Jafaar, N. and Al-Fadda, N. “Interactive speech-based games for autistic children with Asperger Syndrome.” Current Trends in Information Technology (CTIT), 2011 International Conference and Workshop on, 26-27 Oct. 2011, Dubai, UAE, pp. 126 - 131.
 
 Talks
 ======
