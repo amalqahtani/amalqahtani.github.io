@@ -40,7 +40,7 @@ Work experience
 
 Patent
 ======
-AlQahtani, Amal. 2016. WEARABLE ASSISTIVE DEVICE, SYSTEM AND METHODS THEREOF FOR THE VISUALLY IMPAIRED. U.S. Patent number 9311827, filed November 17, 2014, and issued April, 2016.
+Alqahtani, Amal. 2016. WEARABLE ASSISTIVE DEVICE, SYSTEM AND METHODS THEREOF FOR THE VISUALLY IMPAIRED. U.S. Patent number 9311827, filed November 17, 2014, and issued April, 2016.
 
 
 Publications
@@ -53,7 +53,7 @@ Alqahtani, A., Kayi, E. & Diab, M. “Understanding Cohesion in Writings and Spe
 
 Addawood, A., Alshamrani, A., Alqahtani, A., Diesner, J. & Broniatowski, D. “Women's Driving in Saudi Arabia – Analyzing the Discussion of a Controversial Topic on Twitter”. In International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS 2018). 10-13 July 2018, Washington DC, USA.
 
-AlQahtani, A.; Jafaar, N. and Al-Fadda, N. “Interactive speech based games for autistic children with Asperger Syndrome.” Current Trends in Information Technology (CTIT), 2011 International Conference and Workshop on, 26-27 Oct. 2011, Dubai, UAE, pp. 126 - 131.
+Alqahtani, A.; Jafaar, N. and Al-Fadda, N. “Interactive speech-based games for autistic children with Asperger Syndrome.” Current Trends in Information Technology (CTIT), 2011 International Conference and Workshop on, 26-27 Oct. 2011, Dubai, UAE, pp. 126 - 131.
 
 Talks
 ======
